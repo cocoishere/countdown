@@ -1,0 +1,17 @@
+{
+  "packageId": "wpkBn5BxUYowd",
+  "spaceId": "spcLge1kjoixh",
+  "entry": "./src/index.jsx",
+  "name": {
+    "zh-CN": "新的小程序",
+    "en-US": "新的小程序"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorIcon": "./author_icon.png",
+  "description": {
+    "zh-CN": "新的小程序 的描述",
+    "en-US": "新的小程序 description"
+  },
+  "sandbox": true
+}
